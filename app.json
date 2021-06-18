@@ -1,0 +1,12 @@
+{
+  "name": "my-doctor",
+  "displayName": "my-doctor",
+  "expo": {
+    "name": "my-doctor",
+    "slug": "my-doctor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
